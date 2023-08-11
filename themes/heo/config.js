@@ -1,20 +1,20 @@
 const CONFIG = {
   HOME_BANNER_ENABLE: true,
 
-  SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  SITE_CREATE_TIME: '2017-06-01', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来我们的网站', url: 'https://azsou.com' },
+    { title: '访问支持中心获取更多帮助', url: 'https://azsou.com/contact-us' }
   ],
 
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '分享编程',
-  HERO_TITLE_2: 'AI智能创意',
+  HERO_TITLE_2: 'AI开发创意',
   HERO_TITLE_3: 'AZSOU.COM',
-  HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: 'AI人工智能 游戏开发创意',
+  HERO_TITLE_4: '最新资讯',
+  HERO_TITLE_5: 'AI人工智能 游戏编程创意',
   HERO_TITLE_LINK: 'https://azsou.com',
 
   // 英雄区显示三个置顶分类
@@ -28,7 +28,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
-    '你好！这里是',
+    '您好！这里是',
     '🔍 分享与热心帮助',
     '🤝 游戏交互与设计',
     '🏃 脚踏实地行动派',
