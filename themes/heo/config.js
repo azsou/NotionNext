@@ -11,11 +11,11 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '分享编程',
-  HERO_TITLE_2: '与思维认知',
-  HERO_TITLE_3: 'TANGLY1024.COM',
+  HERO_TITLE_2: 'AI智能创意',
+  HERO_TITLE_3: 'AZSOU.COM',
   HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HERO_TITLE_LINK: 'https://tangly1024.com',
+  HERO_TITLE_5: 'AI人工智能 游戏开发创意',
+  HERO_TITLE_LINK: 'https://azsou.com',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -28,15 +28,15 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
-    '你好！我是',
+    '你好！这里是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
+    '🤝 游戏交互与设计',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
+    '🏠 智能工具助手',
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  INFO_CARD_URL: 'https://github.com/azsou', // 个人资料底部按钮链接
 
   // 用户技能图标
   GROUP_ICONS: [
@@ -101,8 +101,8 @@ const CONFIG = {
   SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   SOCIAL_CARD_TITLE_1: '交流频道',
   SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  SOCIAL_CARD_TITLE_3: '点击加入社群',
-  SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  SOCIAL_CARD_TITLE_3: '点击加入Discord频道',
+  SOCIAL_CARD_URL: 'https://discord.gg/gtynRJFH',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
@@ -125,7 +125,7 @@ const CONFIG = {
   ARTICLE_RECOMMEND: true, // 文章关联推荐
 
   WIDGET_LATEST_POSTS: true, // 显示最新文章卡
-  WIDGET_ANALYTICS: false, // 显示统计卡
+  WIDGET_ANALYTICS: true, // 显示统计卡
   WIDGET_TO_TOP: true,
   WIDGET_TO_COMMENT: true, // 跳到评论区
   WIDGET_DARK_MODE: true, // 夜间模式
