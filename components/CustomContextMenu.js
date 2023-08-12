@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { useRouter } from 'next/router'
 import { useEffect, useState, useRef } from 'react'
 import { useGlobal } from '@/lib/global'
-import { saveDarkModeToCookies, THEMES } from '@/themes/theme'
+// import { saveDarkModeToCookies, THEMES } from '@/themes/theme'
 import BLOG from '@/blog.config'
 
 /**
