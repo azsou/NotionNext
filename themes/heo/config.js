@@ -102,7 +102,7 @@ const CONFIG = {
   SOCIAL_CARD_TITLE_1: '交流频道',
   SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   SOCIAL_CARD_TITLE_3: '点击加入Discord频道',
-  SOCIAL_CARD_URL: 'https://discord.gg/8EmBERZa',
+  SOCIAL_CARD_URL: 'https://discord.gg/WdwTH288',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
